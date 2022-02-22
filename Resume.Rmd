@@ -111,7 +111,10 @@ Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
+You can find the full code [here](https://github.com/scarlqq/Resume).
+
 Last updated on `r Sys.Date()`.
+
 
 
 
