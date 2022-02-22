@@ -1,2 +1,2 @@
 # Resume
-Template and code for automatic resume!
+Template and code for my automatic resume (°∀°)ノ
